@@ -1,28 +1,16 @@
-  <header>
-    <h3 align="center"> Hi! I'm Lucas Souza 👋</h3>
-    <p>I am a Software Engineering student at <a href="https://www.unicesumar.edu.br/home/">Cesumar University</a> and I'm taking a few more courses related to programming.</p>
-    <p>My language is Brazilian Portuguese, but I am improving my knowledge in English and Spanish with the help of an educational institution</p>
-    <p>I am passionate about technology and innovation, believing that one day I will make a difference in this gigantic technological world! :blue_heart:</p>
-  </header>
-  
-  <div align="center">
-    <a href="https://www.linkedin.com/in/lucas-souza-fa/"><img align="center" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:lucas.assuino@alunos.unicesumar.edu.br"><img align="center" alt="Email " src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.instagram.com/tvls7x/"><img align="center" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <div/></br>
-  
-  <div align="center">
-    <a href="https://github.com/lucasassuino">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lucasassuino&show_icons=true&theme=default&include_all_commits=true&count_private=true" />
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasassuino&layout=compact&langs_count=7&theme=default" />
-  </div>
+## Lucas Souza
+Full Stack Developer
 
-  <h3 align="center">Types of technologies I use in my daily life</h3>
-  <div style="display: inline_block" align="center"><br>
-    <img align="center" alt="HTML5" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-    <img align="center" alt="CSS3" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-    <img align="center" alt="JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-    <img align="center" alt="PHP" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
-    <img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  </div></br>
-  
+<a href="https://www.linkedin.com/in/lucas-souza-fa/" target="_blank">
+  <img src="https://imgur.com/gbNAxyt.jpeg" alt="Linkedin" />
+</a>
+
+<a href="mailto:lucas.assuino@gmail.com">
+ <img src="https://imgur.com/J89synM.jpeg" alt="Linkedin"/>
+</a>
+
+Meu nome é Lucas, sou estudante de engenharia de software e venho atuando profissionalmente como desenvolvedor full stack desde 2022. Iniciei minha trajetória como estagiário em uma startup especializada em segurança da informação e conformidade com a LGPD. Durante esse período, desempenhei funções essenciais, como a manutenção e implementação de novos recursos na plataforma, além de contribuir para a melhoria e qualidade da experiência do usuário.
+
+Tendo uma melhor experiência com Ruby, Rails, React, JavaScript, TypeScript e Next.js. Utilizando também de ferramentas como SASS, Material UI e Tailwind CSS, incluindo gestão de bancos de dados, com Docker e PostgreSQL e integrações com a AWS.
+
+Atualmente, estou focado no desenvolvimento de uma nova plataforma, cujo código está restrito no GitLab, o que explica a ausência de projetos visíveis no GitHub. No entanto, estou comprometido em expandir minha presença online e compartilhar mais dos meus trabalhos em breve.
